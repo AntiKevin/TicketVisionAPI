@@ -114,6 +114,8 @@ SPECTACULAR_SETTINGS = {
     # OTHER SETTINGS
 }
 
+CORS_ORIGIN_ALLOW_ALL = True
+
 # Internationalization
 # https://docs.djangoproject.com/en/4.1/topics/i18n/
 
